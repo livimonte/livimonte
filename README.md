@@ -1,6 +1,6 @@
 # Hi there 🖖
 
-I’m a full-stack engineer, bass player and enthusiast about tech, forex and crypto.
+I’m a full-stack engineer, bass player and enthusiast about tech and crypto.
 
 <a href="https://linkedin.com/in/livimonte" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"></a>
 <a href="mailto:livi.monte@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" height="32"></a>
