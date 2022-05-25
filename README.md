@@ -1,4 +1,4 @@
-# Hi there 🖖
+# Hi there :wave:
 
 I’m a full-stack engineer, bass player and enthusiast about tech and crypto.
 
